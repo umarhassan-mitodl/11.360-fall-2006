@@ -8,18 +8,18 @@ ocw_type: CourseSection
 title: Related Resources
 uid: cd09a6b4-46cf-e678-d995-d1bc47f5cf72
 ---
-[Traffic Calming - Selected Reports](http://www.ite.org/traffic/tcstate.asp)
+{{% resource_link "fbe80bcf-32cc-4065-a993-7a3cc5c8f336" "Traffic Calming - Selected Reports" %}}
 
-[Traffic Calming - Speed Hump](http://www.ite.org/traffic/hump.asp)
+{{% resource_link "7bc658bb-7b88-4ea6-9b78-4b3ebed7b7ea" "Traffic Calming - Speed Hump" %}}
 
-[Take Back Your Streets](http://www.contextsensitivesolutions.org/content/reading/take-back-your-streets/)
+{{% resource_link "494e4195-3e7d-4249-91b5-10ee7b80c366" "Take Back Your Streets" %}}
 
-[City of Hopkins Design Guidelines](https://web.archive.org/web/20210126181200/https://www.hopkinsmn.com/197/Downtown-Overlay-District)
+{{% resource_link "4aa7ea2a-5f6f-4890-8b61-2518d9ddbf79" "City of Hopkins Design Guidelines" %}}
 
-Visualizing Density ([PDF - 6.3MB](https://www.lincolninst.edu/sites/default/files/pubfiles/visualizing-density-chp.pdf))
+Visualizing Density ({{% resource_link "d6b35be3-5501-4ac8-a4a7-3fd5d273b8d0" "PDF - 6.3MB" %}})
 
-[City of Dana Point Design Guidelines](http://www.danapoint.org/)
+{{% resource_link "326f7520-acd2-473a-ae82-038e168a1d0f" "City of Dana Point Design Guidelines" %}}
 
-[City of Coquitlam Design Guidelines](http://www.coquitlam.ca/Business/Developing+Coquitlam/Strategic+Plans/default.htm)
+{{% resource_link "50380f80-1aaa-48a6-9a5f-5e4fc215bf09" "City of Coquitlam Design Guidelines" %}}
 
-[City of Austin Design Guidelines](http://www.austintexas.gov/sites/default/files/files/Boards_and_Commissions/Design_Commission_urban_design_guidelines_for_austin.pdf)
+{{% resource_link "c47b0399-f455-4ae2-9e02-04e598564f35" "City of Austin Design Guidelines" %}}
