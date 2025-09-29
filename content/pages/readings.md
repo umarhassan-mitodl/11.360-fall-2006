@@ -3,6 +3,8 @@ content_type: page
 description: This section contains information about additional reading materials
   regarding the course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -87,9 +89,9 @@ Baer, William C. "General Plan Evaluation Criteria: An Approach to Making Better
 Imaging Medford's Riverfront
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "501fe750-d405-4ca7-beb1-2d7262f77313" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "The Image of the Environment." Chapter 1 in {{% resource_link "eb257fe0-3244-4e0f-b2b8-accffc1e13e2" "*The Image of the City*" %}}. Cambridge, MA: MIT Press, 1960, pp. 1-13. ISBN: 0262620014.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/image-city) Lynch, Kevin. "The Image of the Environment." Chapter 1 in [*The Image of the City*](https://mitpress.mit.edu/9780262620017/the-image-of-the-city/). Cambridge, MA: MIT Press, 1960, pp. 1-13. ISBN: 0262620014.
 
-{{% resource_link "74b3cd38-6a01-4bf3-ade7-e73eae43ac6c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jacobs, Allan B. "Making Great Streets." Chapter 4 in {{% resource_link "74b3cd38-6a01-4bf3-ade7-e73eae43ac6c" "*Great Streets*" %}}. Cambridge, MA: MIT Press, 1993, pp. 269-308. ISBN: 0262600234.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/great-streets) Jacobs, Allan B. "Making Great Streets." Chapter 4 in [*Great Streets*](https://mitpress.mit.edu/books/great-streets). Cambridge, MA: MIT Press, 1993, pp. 269-308. ISBN: 0262600234.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 5: Visioning; The Growth Management System: Local and Regional Issues**
@@ -193,9 +195,9 @@ Kennedy, Maureen, and Paul Leonard. *Dealing with Neighborhood Change: A Primer 
 
 Bergsman, Steve. "Community Renewal: Activating Chicago's Washington Park." *Urban Land* 63, no. 10 (2004): 104-107.
 
-Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*. The Fannie Mae Foundation, September 2004. ({{% resource_link "4bd77305-471c-4a17-a3b5-a00295bbddb8" "PDF - 1.8MB" %}})
+Seidman, Karl F. *Revitalizing Commerce for American Cities: A Practitioner's Guide to Urban Main Street Programs*. The Fannie Mae Foundation, September 2004. ([PDF - 1.8MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/tool-fannie-mae-main-str.pdf))
 
-NBDM Overview: What Is the Neighborhood Business Development Methodology. {{% resource_link "67f2d186-f884-4980-b08e-0aa5a0c04ce8" "Neighborhood Connections" %}}.
+NBDM Overview: What Is the Neighborhood Business Development Methodology. [Neighborhood Connections](http://www.artmedialab.com/_portfolio/icic/www/misc/overview.html).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 8: Community Design, Placemaking, Form-Based Codes**
@@ -221,7 +223,7 @@ Lopez, Guillermo. "Public Space Design." *Urban Land* 65, no. 3 (2006): 60-64.
 
 Berkowitz, Ellen. "Toward a New Discourse on Mixed-Use Development." *Urban Land* 65, no. 1 (2006): 99-101.
 
-Search {{% resource_link "360585cc-13e0-4684-b2f8-6b1788d8e694" "this site" %}} to evaluate design review and design standards from other cities and towns.
+Search [this site](http://municipalcodes.lexisnexis.com/) to evaluate design review and design standards from other cities and towns.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
@@ -239,7 +241,7 @@ Project Workshop Day
 Landscape Planning History and Current Approaches
 {{< tdclose >}}{{< tdopen >}}
 
-Center for Watershed Protection. "Smart Site Practices for Redevelopment and Infill Projects Redevelopment." Ellicott City, MD: Center for Watershed Protection, October 2001. ({{% resource_link "8a4f5cf5-6b46-4533-a388-b223768d071e" "PDF" %}})
+Center for Watershed Protection. "Smart Site Practices for Redevelopment and Infill Projects Redevelopment." Ellicott City, MD: Center for Watershed Protection, October 2001. ([PDF](https://web.archive.org/web/20140821151904/http://www.town-eastonmd.com/PlanningZoning/Easton_Downtown_Plan/Center%20for%20Watershed%20Protection%20Guidelines/MD%20Smart%20Site%20Practices%20for%20Redevelopment%20and%20Infill%20Project.pdf))
 
 Rishbeth, Clare. "Ethnic Minority Groups and the Design of Public Open Space: An Inclusive Landscape." *Landscape Research* 26, no. 4 (2001): 351-366.
 
@@ -277,13 +279,13 @@ Thwarting Sprawl, Smart Growth, and the Evolution of Suburbia
 
 Scan through sprawl and smart growth web sites and links, such as:
 
-{{% resource_link "ef505515-32b3-425e-98c6-a4243a00d16a" "Sprawl Watch" %}}
+[Sprawl Watch](http://www.sprawlwatch.org/)
 
-{{% resource_link "c5652655-e679-48c9-b565-30c00ef6c46a" "Smart Growth Online" %}}
+[Smart Growth Online](http://www.smartgrowth.org/)
 
-{{% resource_link "4e70b265-c971-4d87-bfe0-dcfb32d5f19e" "Sprawl and Growth" %}}
+[Sprawl and Growth](http://plannersweb.com/1997/04/stopping-sprawl-by-growing-smarter/)
 
-{{% resource_link "3d027a1d-8dde-4f51-ac6b-5f8c45a9dbb0" "Suburban Sprawl" %}}
+[Suburban Sprawl](http://www.mstl.org/index.php/focus/sprawl)
 
 Katz, Bruce. "The Permanent Campaign." *Urban Land* 62, no. 5 (2003): 44-52.
 
@@ -333,10 +335,10 @@ Knack, Ruth Eckdish. "Drive Nicely." *Planning* 64, no. 12 (1998): 12-15.
 
 Knapp, Keith K. "Traffic-Calming Basics." *Civil Engineering* 70, no. 1 (2000): 46-49.
 
-{{% resource_link "fbba566b-3d21-4676-8747-c2d09c62b8eb" "The Federal Highway Administration" %}} (FHWA) inaugurated a new website dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming.
+[The Federal Highway Administration](https://www.fhwa.dot.gov/) (FHWA) inaugurated a new website dedicated to all the known and/or electronically publicized transportation programs and studies that pertain to traffic calming.
 
 Also see ITE (Institute of Transportation Engineers) Web site.   
-{{% resource_link "42e161f8-797e-4866-b2f4-f1914b959417" "Traffic Calming Library" %}}
+[Traffic Calming Library](https://www.ite.org/technical-resources/traffic-calming/)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Part IV: Integration and Implementation**

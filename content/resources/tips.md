@@ -5,6 +5,8 @@ description: This resource contains information on topics executive summary, ana
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/2948e2e277d9c20ed8eb4f36bc6f4e17_tips.pdf
 file_size: 22054
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information on topics open space, ecology, r
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/acb26dd30227d832b35a0df2e7f59531_finala.pdf
 file_size: 4724630
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
