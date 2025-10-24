@@ -6,8 +6,6 @@ description: This resource contains information on topics three specific areas o
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/4133a1fbcded607e0763cd39879d238d_finalb.pdf
 file_size: 5366682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

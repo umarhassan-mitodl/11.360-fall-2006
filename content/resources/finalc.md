@@ -5,8 +5,6 @@ description: This resource contains information on topics regulatory framework, 
 file: /courses/11-360-community-growth-and-land-use-planning-fall-2006/3545771b31770693454235555d2c96f1_finalc.pdf
 file_size: 2898478
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
